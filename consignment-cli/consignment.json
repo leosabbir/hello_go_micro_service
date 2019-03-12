@@ -1,0 +1,9 @@
+{
+  "description": "This is a top secret consignment",
+  "weight": 55000,
+  "containers": [
+    { "customer_id": "062BCT537", "user_id": "537", "origin": "Las Vegas, USA" },
+    { "customer_id": "cust002", "user_id": "user002", "origin": "Manchester, UK" }
+    { "customer_id": "cust003", "user_id": "user003", "origin": "Kathmandu, Nepal" }
+  ],
+}
